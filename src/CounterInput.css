@@ -1,0 +1,10 @@
+@media(min-width: 60px){
+    #btnReset{
+        background-color: green;
+        /* background-color: indi */
+        /* background-color: re */
+        width: 20px;
+        
+        /* /background-image: url() */
+    }
+}

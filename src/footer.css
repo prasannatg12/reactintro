@@ -1,0 +1,29 @@
+#FooterMain{
+    background-color: dodgerblue;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    user-select: none;
+}
+
+#FooterMenu{
+    padding:10px;
+    
+}
+
+#FooterMenu:hover
+{
+
+    /*border:1px double black;*/
+    background-color: dodgerblue;
+    font-weight: bold;   
+}
+#FooterHeader{
+    padding:10px;
+    text-align: center;    
+    font-weight: bold;
+    font-size: 18px;
+}
+#FooterContent{
+    display: none;
+}
